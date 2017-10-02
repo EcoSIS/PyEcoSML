@@ -1,2 +1,2 @@
 # PyEcoSML
-Python library for running EcoSML spectra transforms and coefficient models
+Python CLI library for running EcoSML spectra transforms and coefficient models
